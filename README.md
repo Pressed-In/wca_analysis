@@ -4,6 +4,6 @@ Repository hosting jupyter notebook light analysis of WCA Competitions dataset
 
 Example chart:
 
-![text](https://raw.githubusercontent.com/Pressed-In/wca_analysis/main/graph_b.png)
+![text](https://raw.githubusercontent.com/Pressed-In/wca_analysis/main/graph%20(PS).png)
 
 Example notebook:
